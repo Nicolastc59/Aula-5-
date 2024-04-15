@@ -34,3 +34,8 @@ A: área
 D: diagonal maior
 
 d: diagonal menor
+
+Rentângulo 
+
+
+$A=\frac{b.h}{2}$
