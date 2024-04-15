@@ -14,7 +14,7 @@ h: altura
 Quadrado
 
 
-$A=AL^{2}$
+$A=L^{2}$
 
 Sendo;
 
@@ -25,7 +25,7 @@ L: lado
 Losango 
 
 
-$A=frac{D.d}{2}$
+$A=\frac{D.d}{2}$
 
 Sendo;
 
