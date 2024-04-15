@@ -58,3 +58,10 @@ A: área
 b: base menor
 
 h: altura 
+
+Círculo 
+
+$A=\pi.r^{2}$
+
+A: área 
+
