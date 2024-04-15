@@ -9,3 +9,5 @@ A: área
 b: base 
 
 h: altura
+
+$A=AL^{2}$
