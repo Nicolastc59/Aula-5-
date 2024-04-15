@@ -39,3 +39,11 @@ Rentângulo
 
 
 $A=\frac{b.h}{2}$
+
+Sendo;
+
+trapézio 
+
+
+$A=$\pi$.r^{2}$
+
