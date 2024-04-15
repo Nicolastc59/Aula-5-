@@ -45,5 +45,5 @@ Sendo;
 trapézio 
 
 
-$A=$\pi$.r^{2}$
+$A=\pi.r^{2}$
 
